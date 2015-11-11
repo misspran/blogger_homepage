@@ -1,0 +1,41 @@
+body{
+	font-family: Helvetica, sans-serif;
+}
+.navbar {
+	height: 70px;
+	border-bottom: 1px solid black;
+}
+.logo-container{
+	display: inline-block;
+	
+}
+.logo-container img{
+	width: 40px;
+	height: 40px;
+	line-height: 70px;
+	vertical-align: middle;
+	padding-left: 10px;
+
+}
+.logo-container h1{
+	font-size: 24px;
+	display: inline-block;
+	line-height: 70px;
+	vertical-align: middle;
+}
+.nav-elements-container{
+	float: right;
+}
+.nav-elements-container .button{
+	font-size: 24px;
+	text-align: center;
+	display: inline-block;
+	line-height: 70px;
+	width: 195px;
+	height: 70px;
+}
+.cta-button{
+	font-weight: bold;
+	color: white;
+	background-color: #2b78e4;
+}
